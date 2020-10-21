@@ -1,5 +1,5 @@
 {
-  "name": "web2-project2",
+  "name": "poke-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
     "react-hook-form": "^6.8.2",
     "react-redux": "^7.2.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3",
+    "react-scripts": "^3.4.4",
     "redux": "^4.0.5"
   },
   "scripts": {
